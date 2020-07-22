@@ -4,3 +4,4 @@ class Simple{
     }  
 } 
 This line is added to demo the pull command
+Sample testing on pull command
