@@ -3,3 +3,8 @@ class Simple{
      System.out.println("Hello Java");  
     }  
 } 
+<<<<<<< HEAD
+=======
+This line is added to demo the pull command
+Sample testing on pull command
+>>>>>>> c5a3da1bae54fd36f1e9886e396989955444101c
